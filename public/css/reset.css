@@ -1,25 +1,82 @@
 @charset "utf-8";
+
 /* CSS Document */
-html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img { margin:0; padding:0; }
+body,
+ol,
+ul,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+th,
+td,
+dl,
+dd,
+form,
+fieldset,
+legend,
+input,
+textarea,
+select,
+header,
+footer,
+nav,
+article,
+aside,
+figure,
+figcaption {
+  margin: 0;
+  padding: 0;
+}
 
-fieldset, c{ border:none; }
-
-img{display: block;}
-
-address, caption, cite, code, dfn, th, var { font-style:normal; font-weight:normal; }
-
-ul, ol ,li{ list-style:none; }
-
-body { color:#333; font:.14rem "Helvetica Neue",Helvetica,sans-serif; background:#fff;}
-
-a { color:#666; text-decoration:none; }
-/*清除浮动*/
-.clear{clear:both}
-*{box-sizing:border-box}
-body,html{
-    height: 100%;
+body,
+html {
+  height: 100%;
+}
+body { color: #494949; font:.32rem "Helvetica Neue",Helvetica,STHeiTi,sans-serif; background:#fff;}
+article, aside, blockquote, body, dd, div, dl, dt, fieldset, figcaption, figure, form, h1, h2, h3, h4, h5, h6, header, hgroup, input, li, menu, nav, ol, p, pre, section, td, textarea, th, ul {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  list-style: none;
+}
+i,
+em {
+  font-style: normal;
 }
 
 
+a {
+  text-decoration: none;
+  color: #124191;
+  cursor: pointer;
+}
 
+input {
+  outline: none;
+}
 
+.clearfix {
+  *zoom: 1;
+  /* 兼容IE低版本高度塌陷问题 */
+}
+
+.clearfix:after {
+  content: " ";
+  display: block;
+  height: 0;
+  line-height: 0;
+  clear: both;
+  overflow: hidden;
+}
+
+img {
+  border: 0;
+}
