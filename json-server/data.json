@@ -1,0 +1,1132 @@
+{
+    "first": {
+        "banner": [
+            {
+                "image_url": "https://image.uc.cn/s/uae/g/3o/broccoli/resource/201907/c2620b10-9d5f-11e9-a044-4f1f1d710f51.png"
+            },
+            {
+                "image_url": "https://image.uc.cn/s/uae/g/3o/broccoli/resource/201907/d1592a20-a2b6-11e9-8e6c-6f2097df6485.png"
+            },
+            {
+                "image_url": "https://image.uc.cn/s/uae/g/3o/broccoli/resource/201907/15dd5170-9f1b-11e9-b197-9d42fcb6fb71.png"
+            }
+        ],
+        "navs": [
+            "分类",
+            "排行",
+            "女频",
+            "男频",
+            "书单"
+        ],
+        "icon-simg": "http://img-tailor.11222.cn/pm/book/operate/2017022317384553.png",
+        "jingpin": [
+            {
+                "bookname": "凌霄之上",
+                "author_name": "观棋",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201802281216438840.jpg"
+            },
+            {
+                "bookname": "穿书之女配的分手日常",
+                "author_name": "da青蛙",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201904261408204640.jpg"
+            },
+            {
+                "bookname": "待你心里不挪窝",
+                "author_name": "舒虞",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/1146127925103.jpg"
+            },
+            {
+                "bookname": "神脉至尊",
+                "author_name": "花落唯窈",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201701030930062764.jpg"
+            },
+            {
+                "bookname": "网游之武神天下",
+                "author_name": "失落叶",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201604081513224205.jpg"
+            },
+            {
+                "bookname": "天才嫡女，废材四小姐",
+                "author_name": "一块小肥肉",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201609191631029284.jpg"
+            },
+            {
+                "bookname": "透视小神农",
+                "author_name": "不烦",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/1181496607287.jpg"
+            },
+            {
+                "bookname": "诱妻入怀",
+                "author_name": "诺小颖",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/1135227736338.jpg"
+            }
+        ]
+    },
+    "two": {
+        "boy": [
+            {
+                "author_name": "路通",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201712191811439874.jpg",
+                "bookname": "都市狂少"
+            },
+            {
+                "author_name": "男三十",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/1123617460830.jpg",
+                "bookname": "重生大富翁"
+            },
+            {
+                "author_name": "酒品一句",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201712191811441759.jpg",
+                "bookname": "算死命"
+            },
+            {
+                "author_name": "陈行者",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201805092013507582.jpg",
+                "bookname": "一号狂兵"
+            }
+        ],
+        "boyboy": [
+            {
+                "bookname": "圣祖",
+                "book_info": "★精华简介★ 这是一个全新升级的封神世界。这里有纣王，姜子牙，苏妲己，杨戬都将是全新的定位，这里有皇者，火云洞三皇；这里有圣人，道门三清；这里也有上古神魔，蚩尤，刑天；这里将有一个名为罗烈的少年，开启一个“我非英雄，却也盖世无双”的新封神时代！"
+            },
+            {
+                "bookname": "都市人生",
+                "book_info": "★精华简介★ 因为被女人陷害，警校成绩第一的我却被分配到了女子监狱，我本想先在那里待上一段再伺机发展，可万万没想到，我却在那里遇到了..."
+            },
+            {
+                "bookname": "神龙兵王",
+                "book_info": "想玩暧昧，兵王太累。暗杀任务？不接！保镖任务？太累！什。。什么？谈恋爱的任务？等等，这个可以有。"
+            }
+        ],
+        "girl": [
+            {
+                "author_name": "包装成",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/1126687411714.jpg",
+                "bookname": "重生八零:媳妇有点辣"
+            },
+            {
+                "author_name": "一顾倾城",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201810112001254009.jpg",
+                "bookname": "萌宝三只:爹地请排队"
+            },
+            {
+                "author_name": "六月离歌",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201603311514318199.jpg",
+                "bookname": "倾城太后"
+            },
+            {
+                "author_name": "叶子",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201806071725528288.jpg",
+                "bookname": "邪帝心尖宠：鬼医废材妃"
+            }
+        ],
+        "girlgirl": [
+            {
+                "bookname": "摄政王的医品狂妃",
+                "book_info": "特工军医穿越为相府嫡女，受父亲与庶母迫害，嫁与摄政王，种种陷阱，处处陷害，凭着一身的医术，她在府中斗争与深宫之争中游刃有余，诛太子，救梁王，除瘟疫，从一个畏畏缩缩的相府小姐蜕变成可以与他并肩而立的坚毅女子。“你再偷跑出去，本王打断你的小短腿，有哪个王妃怀着身孕还四处跑？”“江东闹瘟疫，我身为官民署的大夫，自然是要去的，你再拦我，疫症都要传到京都了。”铁臂一伸，横抱起那絮絮叨叨的女人，摄政王大步回去，哼，官民署的大夫多着呢，要你一个孕妇出马？还真把自己当菩萨了？也不想想自己当年的手段是何等狠辣刁毒。"
+            },
+            {
+                "bookname": "独家蜜爱：晚安，莫先生",
+                "book_info": "莫太太，蜜月期，你确定要把老公关在外面？”新婚第二夜，某男手拿钥匙打开紧锁的房门。“莫先生，休息一夜，再战如何？”某女拉过被子将自己裹成粽子。某男摇头，顺便堵上她的嘴。某女哀嚎，宝宝很困，宝宝腰酸，宝宝伤不起啊！被心爱的男人劈腿，打击，事业下滑。莫逸尘，锦城最神秘，最权利滔天，最俊美无铸的男人，他对许倾倾说：“嫁我，你失去的，我全替你讨回！"
+            },
+            {
+                "bookname": "一胎双宝：老公大人体力好",
+                "book_info": "第一次，她认错人，他进错房，她被他折腾，一次中标，一胎双宝；第二次，她得罪了某位权贵被送进了小黑屋，强制调教，一关三个月；第三次，她被赶鸭子上架，从国民媳妇到了名门弃妇，所谓人生如戏，全靠演技。“很恨我？”“恨不得杀了你！”她咬牙切齿。“杀我？来，我教你。”总统大人慢条斯理的解开纽扣：“嫁给我！"
+            }
+        ]
+    },
+    "three": {
+        "wanjie": [
+            {
+                "bookname": "山村高手",
+                "author_name": "苏桥",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201903131454504471.jpg"
+            },
+            {
+                "bookname": "六零小甜媳",
+                "author_name": "顾颜兮",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201802081606388897.jpg"
+            },
+            {
+                "bookname": "妖瞳狂妃",
+                "author_name": "夜白",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201709291016315215.jpg"
+            },
+            {
+                "bookname": "浅婚衍衍",
+                "author_name": "水舍尔",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201804091815188079.jpg"
+            },
+            {
+                "bookname": "美味厨娘妃：邪王尝够没",
+                "author_name": "君如月",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201803061318517185.jpg"
+            },
+            {
+                "bookname": "至尊女兵",
+                "author_name": "江海湖",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201603231653112317.jpg"
+            },
+            {
+                "bookname": "后妃保命准则",
+                "author_name": "木木木子头",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/1112787826815.jpg"
+            },
+            {
+                "bookname": "后娘[穿越]",
+                "author_name": "元月月半",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201902021049065013.jpg"
+            }
+        ]
+    },
+    "four": {
+        "renqi": [
+            {
+                "author_name": "宝妆成",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201712191811439874.jpg",
+                "book_info": "父母早逝，家境贫寒，姿色平平，夏晓兰抓了一手烂牌，奋斗了小20年，她当上跨国公司高管，终于将人生的逆境理顺了……一觉醒来发现自己重生到了80年代，也叫夏晓兰，还长了一张祸国殃民的脸。↵同名同姓的“夏晓兰”拿了一副好牌，却在流言逼迫下选择了自杀。↵手腕强，性格辣的夏晓兰接过这烂摊子，踩极品，虐渣渣，牵手那对她一见钟情的痞子男，在80年代混的风生水起！",
+                "bookname": "重生八零:媳妇有点辣",
+                "tag": [
+                    "重生",
+                    "轻松",
+                    "宠文"
+                ]
+            },
+            {
+                "author_name": "陆通",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/1126687411714.jpg",
+                "book_info": "一年前，叶凡为天之骄子，万众瞩目。一年后，他却跌落凡尘，受尽欺凌。一次意外，让叶凡走上了一条不同的道路，绝色校花投怀送抱，商界枭雄俯首称臣，武道宗师敬若神明。叶凡：我不懂什么叫年少轻狂，我只知道——胜者为王！",
+                "bookname": "都市狂少",
+                "tag": [
+                    "热血",
+                    "爽文",
+                    "BG"
+                ]
+            },
+            {
+                "author_name": "南三石",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/1123617460830.jpg",
+                "book_info": "父母早逝，家境贫寒，姿色平平，夏晓兰抓了一手烂牌，奋斗了小20年，她当上跨国公司高管，终于将人生的逆境理顺了……一觉醒来发现自己重生到了80年代，也叫夏晓兰，还长了一张祸国殃民的脸。↵同名同姓的“夏晓兰”拿了一副好牌，却在流言逼迫下选择了自杀。↵手腕强，性格辣的夏晓兰接过这烂摊子，踩极品，虐渣渣，牵手那对她一见钟情的痞子男，在80年代混的风生水起！",
+                "bookname": "重生大富翁",
+                "tag": [
+                    "爽文",
+                    "轻松",
+                    "坚毅"
+                ]
+            },
+            {
+                "author_name": "九品一局",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201712191811441759.jpg",
+                "book_info": "我刚出生的时候，喝了几天狼奶，我把这头狼当妈，我以为我一辈子见不到她，直到有一个女人过来找我……",
+                "bookname": "算死命",
+                "tag": [
+                    "特工",
+                    "悬疑推理",
+                    "风水异术"
+                ]
+            },
+            {
+                "author_name": "陈行者",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201805092013507582.jpg",
+                "book_info": "一代钢铁狂兵，卷土重回都市！喝最烈的酒，踩最狂的反派，征服最美的女人！",
+                "bookname": "一号狂兵",
+                "tag": [
+                    "热血",
+                    "爽文",
+                    "兵王"
+                ]
+            }
+        ]
+    },
+    "five": {
+        "jingxuanshudan": [
+            {
+                "sdesc": "强烈推荐几本男频书，值得收藏！",
+                "tags": [
+                    "异能",
+                    "修炼",
+                    "网游",
+                    "热血"
+                ],
+                "title": "国庆男频都市书荒强推★"
+            },
+            {
+                "sdesc": "没有啥特点，不狗血，不俗套（在我看来是这样的），本人特别喜欢的几个文，看过很多次，特别喜欢，如果书荒到不行，就挑一个这里的再看一遍，都是从头看的，都不腻。",
+                "tags": [
+                    "穿越",
+                    "重生",
+                    "爱恨情仇",
+                    "悲欢离合"
+                ],
+                "title": "特别喜欢的几个文，推荐大家看一看。"
+            }
+        ]
+    },
+    "mulu": {
+        "zhangjielong": "目录(720章)",
+        "page": "",
+        "zhangjie": [
+            {
+                "chapterId": "1067697",
+                "chapterName": "第一章",
+                "biaoti": " 怪异的目光",
+                "payStatus": "0",
+                "chapterPrice": "0",
+                "wordCount": "1393"
+            },
+            {
+                "chapterId": "1067698",
+                "chapterName": "第二章",
+                "biaoti": " 神秘的争论",
+                "payStatus": "0",
+                "chapterPrice": "0",
+                "wordCount": "1485"
+            },
+            {
+                "chapterId": "1067699",
+                "chapterName": "第三章",
+                "biaoti": " 诡异的棺材",
+                "payStatus": "0",
+                "chapterPrice": "0",
+                "wordCount": "1622"
+            },
+            {
+                "chapterId": "1067700",
+                "chapterName": "第四章",
+                "biaoti": " 做梦",
+                "payStatus": "0",
+                "chapterPrice": "0",
+                "wordCount": "1104"
+            },
+            {
+                "chapterId": "1067701",
+                "chapterName": "第五章",
+                "biaoti": " 露出獠牙的村民",
+                "payStatus": "0",
+                "chapterPrice": "0"
+            },
+            {
+                "chapterId": "1067702",
+                "chapterName": "第六章",
+                "biaoti": " 逃跑无果",
+                "payStatus": "0",
+                "chapterPrice": "0",
+                "wordCount": "1166"
+            },
+            {
+                "chapterId": "1067703",
+                "chapterName": "第七章",
+                "biaoti": "冥婚前",
+                "payStatus": "0",
+                "chapterPrice": "0",
+                "wordCount": "1255"
+            },
+            {
+                "chapterId": "1067704",
+                "chapterName": "第八章",
+                "biaoti": " 冥婚时",
+                "payStatus": "0",
+                "chapterPrice": "0",
+                "wordCount": "1216"
+            },
+            {
+                "chapterId": "1067705",
+                "chapterName": "第九章",
+                "biaoti": " 冥婚后",
+                "payStatus": "0",
+                "chapterPrice": "0",
+                "wordCount": "1097"
+            },
+            {
+                "chapterId": "1067706",
+                "chapterName": "第十章",
+                "biaoti": " 洞房花烛夜",
+                "payStatus": "0",
+                "chapterPrice": "0",
+                "wordCount": "940"
+            },
+            {
+                "chapterId": "1067707",
+                "chapterName": "第十一章",
+                "biaoti": " 浑身是伤",
+                "payStatus": "0",
+                "chapterPrice": "0",
+                "wordCount": "1507"
+            },
+            {
+                "chapterId": "1067708",
+                "chapterName": "第十二章",
+                "biaoti": "险些溺死",
+                "payStatus": "0",
+                "chapterPrice": "0",
+                "wordCount": "1519"
+            },
+            {
+                "chapterId": "1067709",
+                "chapterName": "第十三章",
+                "biaoti": "纠缠不休",
+                "payStatus": "0",
+                "chapterPrice": "0",
+                "wordCount": "1680"
+            },
+            {
+                "chapterId": "1067710",
+                "chapterName": "第十四章",
+                "biaoti": "暗中的陪伴",
+                "payStatus": "0",
+                "chapterPrice": "0",
+                "wordCount": "1702"
+            },
+            {
+                "chapterId": "1067711",
+                "chapterName": "第十五章",
+                "biaoti": "如影随形",
+                "payStatus": "0",
+                "chapterPrice": "0",
+                "wordCount": "1576"
+            },
+            {
+                "chapterId": "1067712",
+                "chapterName": "第十六章",
+                "biaoti": "深度发烧",
+                "payStatus": "0",
+                "chapterPrice": "0",
+                "wordCount": "1549"
+            },
+            {
+                "chapterId": "1067713",
+                "chapterName": "第十七章",
+                "biaoti": "卫生所",
+                "payStatus": "0",
+                "chapterPrice": "0",
+                "wordCount": "1306"
+            },
+            {
+                "chapterId": "1067714",
+                "chapterName": "第十八章",
+                "biaoti": "求助无望",
+                "payStatus": "0",
+                "chapterPrice": "0",
+                "wordCount": "1653"
+            },
+            {
+                "chapterId": "1067715",
+                "chapterName": "第十九章",
+                "biaoti": "情绪崩溃",
+                "payStatus": "0",
+                "chapterPrice": "0",
+                "wordCount": "1487"
+            },
+            {
+                "chapterId": "1067716",
+                "chapterName": "第二十章",
+                "biaoti": "学会伪装",
+                "payStatus": "0",
+                "chapterPrice": "0",
+                "wordCount": "1489"
+            },
+            {
+                "chapterId": "1067717",
+                "chapterName": "第二十一章",
+                "biaoti": "魏河离开",
+                "payStatus": "3",
+                "chapterPrice": "1.0"
+            },
+            {
+                "chapterId": "1067718",
+                "chapterName": "第二十二章",
+                "biaoti": "教书",
+                "payStatus": "3",
+                "chapterPrice": "1.0",
+                "wordCount": "1792"
+            },
+            {
+                "chapterId": "1067719",
+                "chapterName": "第二十三章",
+                "biaoti": "教师生涯",
+                "payStatus": "3",
+                "chapterPrice": "0.5"
+            },
+            {
+                "chapterId": "1067720",
+                "chapterName": "第二十四章",
+                "biaoti": "叹息的纠缠",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067721",
+                "chapterName": "第二十五章",
+                "biaoti": "武器到手",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067722",
+                "chapterName": "第二十六章",
+                "biaoti": "群殴",
+                "payStatus": "3",
+                "chapterPrice": "1.5",
+                "wordCount": "3292"
+            },
+            {
+                "chapterId": "1067723",
+                "chapterName": "第二十七章",
+                "biaoti": " 村长训话",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067724",
+                "chapterName": "第二十八章",
+                "biaoti": "逃跑前奏",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067725",
+                "chapterName": "第二十九章",
+                "biaoti": "红秀告密",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067726",
+                "chapterName": "第三十章",
+                "biaoti": " 丛林深处",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067727",
+                "chapterName": "第三十一章",
+                "biaoti": " 要被玷污了",
+                "payStatus": "3",
+                "chapterPrice": "1.0"
+            },
+            {
+                "chapterId": "1067728",
+                "chapterName": "第三十二章",
+                "biaoti": " 魏河再现",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067729",
+                "chapterName": "第三十三章",
+                "biaoti": " 原来是喜欢啊",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067730",
+                "chapterName": "第三十四章",
+                "biaoti": " 遗失记忆",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067731",
+                "chapterName": "第三十五章",
+                "biaoti": " 商场跳楼案",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067732",
+                "chapterName": "第三十六章",
+                "biaoti": "白裙子女人",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067733",
+                "chapterName": "第三十七章",
+                "biaoti": "夏小甜遇险",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067734",
+                "chapterName": "第三十八章",
+                "biaoti": " 那一个影子",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067735",
+                "chapterName": "第三十九章",
+                "biaoti": "镰刀的古怪",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067736",
+                "chapterName": "第四十章",
+                "biaoti": "告别张爷爷",
+                "payStatus": "3",
+                "chapterPrice": "1.0"
+            },
+            {
+                "chapterId": "1067737",
+                "chapterName": "第四十一章",
+                "biaoti": "惊艳",
+                "payStatus": "3",
+                "chapterPrice": "1.0",
+                "wordCount": "2265"
+            },
+            {
+                "chapterId": "1067738",
+                "chapterName": "第四十二章",
+                "biaoti": "所谓联谊",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067739",
+                "chapterName": "第四十三章",
+                "biaoti": "谣言乱语",
+                "payStatus": "3",
+                "chapterPrice": "1.0"
+            },
+            {
+                "chapterId": "1067740",
+                "chapterName": "第四十四章",
+                "biaoti": "厕所迷情",
+                "payStatus": "3",
+                "chapterPrice": "1.0"
+            },
+            {
+                "chapterId": "1067741",
+                "chapterName": "第四十五章",
+                "biaoti": " 严敏羞辱",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067742",
+                "chapterName": "第四十六章",
+                "biaoti": "蓝子轩之死",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067743",
+                "chapterName": "第四十七章",
+                "biaoti": "葬礼",
+                "payStatus": "3",
+                "chapterPrice": "1.5",
+                "wordCount": "3049"
+            },
+            {
+                "chapterId": "1067744",
+                "chapterName": "第四十八章",
+                "biaoti": " 鬼来寻",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067745",
+                "chapterName": "第四十九章",
+                "biaoti": " 乱战",
+                "payStatus": "3",
+                "chapterPrice": "1.5",
+                "wordCount": "3001"
+            },
+            {
+                "chapterId": "1067746",
+                "chapterName": "第五十章",
+                "biaoti": "魏河出手",
+                "payStatus": "3",
+                "chapterPrice": "1.5",
+                "wordCount": "3035"
+            },
+            {
+                "chapterId": "1067747",
+                "chapterName": "第五十一章",
+                "biaoti": "又忘记了",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067748",
+                "chapterName": "第五十二章",
+                "biaoti": "考古计划？",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067749",
+                "chapterName": "第五十三章",
+                "biaoti": "火车途中",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067750",
+                "chapterName": "第五十四章",
+                "biaoti": "盗墓贼",
+                "payStatus": "3",
+                "chapterPrice": "1.5",
+                "wordCount": "3095"
+            },
+            {
+                "chapterId": "1067751",
+                "chapterName": "第五十五章",
+                "biaoti": "诡异的鼎",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067752",
+                "chapterName": "第五十六章",
+                "biaoti": " 大巴车",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067753",
+                "chapterName": "第五十七章",
+                "biaoti": "车上有鬼",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067754",
+                "chapterName": "第五十八章",
+                "biaoti": "安全抵达",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067755",
+                "chapterName": "第五十九章",
+                "biaoti": "娓娓道来",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067756",
+                "chapterName": "第六十章",
+                "biaoti": "祭山神",
+                "payStatus": "3",
+                "chapterPrice": "1.5",
+                "wordCount": "3044"
+            },
+            {
+                "chapterId": "1067757",
+                "chapterName": "第六十一章",
+                "biaoti": "庙宇祭祀",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067758",
+                "chapterName": "第六十二章",
+                "biaoti": "神秘的人群",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067759",
+                "chapterName": "第六十三章",
+                "biaoti": "惊魂一刻",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067760",
+                "chapterName": "第六十四章",
+                "biaoti": "树上鬼影",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067761",
+                "chapterName": "第六十五章",
+                "biaoti": "众人汇合",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067762",
+                "chapterName": "第六十六章",
+                "biaoti": "一个小男孩",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067763",
+                "chapterName": "第六十七章",
+                "biaoti": "百家宴",
+                "payStatus": "3",
+                "chapterPrice": "1.5",
+                "wordCount": "3092"
+            },
+            {
+                "chapterId": "1067764",
+                "chapterName": "第六十八章",
+                "biaoti": "小安的提示",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067765",
+                "chapterName": "第六十九章",
+                "biaoti": "交易",
+                "payStatus": "3",
+                "chapterPrice": "1.0",
+                "wordCount": "1978"
+            },
+            {
+                "chapterId": "1067766",
+                "chapterName": "第七十章",
+                "biaoti": "冲动的买卖",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067767",
+                "chapterName": "第七十一章",
+                "biaoti": "怒火冲天",
+                "payStatus": "3",
+                "chapterPrice": "1.0"
+            },
+            {
+                "chapterId": "1067768",
+                "chapterName": "第七十二章",
+                "biaoti": "混乱中的对峙",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067769",
+                "chapterName": "第七十三章",
+                "biaoti": "脱离镇子",
+                "payStatus": "3",
+                "chapterPrice": "2.0"
+            },
+            {
+                "chapterId": "1067770",
+                "chapterName": "第七十四章",
+                "biaoti": "矛盾爆发",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067771",
+                "chapterName": "第七十五章",
+                "biaoti": "鬼打墙",
+                "payStatus": "3",
+                "chapterPrice": "1.5",
+                "wordCount": "2643"
+            },
+            {
+                "chapterId": "1067772",
+                "chapterName": "第七十六章",
+                "biaoti": "从我朋友身体里滚出去",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067773",
+                "chapterName": "第七十七章",
+                "biaoti": "你怎么做到的？",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067774",
+                "chapterName": "第七十八章",
+                "biaoti": "这条河，名叫魏河",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067775",
+                "chapterName": "第七十九章",
+                "biaoti": "我不喜欢聪明的女人",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067776",
+                "chapterName": "第八十章",
+                "biaoti": "入住第一夜",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067777",
+                "chapterName": "第八十一章",
+                "biaoti": "我会陪着你，如影随形",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067778",
+                "chapterName": "第八十二章",
+                "biaoti": "潜伏",
+                "payStatus": "3",
+                "chapterPrice": "1.5",
+                "wordCount": "2681"
+            },
+            {
+                "chapterId": "1067779",
+                "chapterName": "第八十三章",
+                "biaoti": "偷枪的人",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067780",
+                "chapterName": "第八十四章",
+                "biaoti": "河神村",
+                "payStatus": "3",
+                "chapterPrice": "1.5",
+                "wordCount": "3164"
+            },
+            {
+                "chapterId": "1067781",
+                "chapterName": "第八十五章",
+                "biaoti": "韩东阳的警告",
+                "payStatus": "3",
+                "chapterPrice": "1.0"
+            },
+            {
+                "chapterId": "1067782",
+                "chapterName": "第八十六章",
+                "biaoti": "一个大胆的决定",
+                "payStatus": "3",
+                "chapterPrice": "1.0"
+            },
+            {
+                "chapterId": "1067783",
+                "chapterName": "第八十七章",
+                "biaoti": "我美吗？",
+                "payStatus": "3",
+                "chapterPrice": "1.0"
+            },
+            {
+                "chapterId": "1067784",
+                "chapterName": "第八十八章",
+                "biaoti": "你想用它对付我吗？",
+                "payStatus": "3",
+                "chapterPrice": "1.0"
+            },
+            {
+                "chapterId": "1067785",
+                "chapterName": "第八十九章",
+                "biaoti": "激烈碰撞",
+                "payStatus": "3",
+                "chapterPrice": "1.0"
+            },
+            {
+                "chapterId": "1067786",
+                "chapterName": "第九十章",
+                "biaoti": "强势占有",
+                "payStatus": "3",
+                "chapterPrice": "2.0",
+                "wordCount": "3501"
+            },
+            {
+                "chapterId": "1067787",
+                "chapterName": "第九十一章",
+                "biaoti": " 事后",
+                "payStatus": "3",
+                "chapterPrice": "1.5",
+                "wordCount": "3205"
+            },
+            {
+                "chapterId": "1067788",
+                "chapterName": "第九十二章",
+                "biaoti": "死人了",
+                "payStatus": "3",
+                "chapterPrice": "2.0",
+                "wordCount": "3596"
+            },
+            {
+                "chapterId": "1067789",
+                "chapterName": "第九十三章",
+                "biaoti": "情势反转",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067790",
+                "chapterName": "第九十四章",
+                "biaoti": "死亡的秘密",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067791",
+                "chapterName": "第九十五章",
+                "biaoti": "舌头不见了",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067792",
+                "chapterName": "第九十六章",
+                "biaoti": "河妖的歌声",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067793",
+                "chapterName": "第九十七章",
+                "biaoti": "溺水",
+                "payStatus": "3",
+                "chapterPrice": "1.5",
+                "wordCount": "2998"
+            },
+            {
+                "chapterId": "1067794",
+                "chapterName": "第九十八章",
+                "biaoti": "蓝颜祸水",
+                "payStatus": "3",
+                "chapterPrice": "1.0"
+            },
+            {
+                "chapterId": "1067795",
+                "chapterName": "第九十九章",
+                "biaoti": "你到底是什么",
+                "payStatus": "3",
+                "chapterPrice": "1.5"
+            },
+            {
+                "chapterId": "1067796",
+                "chapterName": "第一百章",
+                "biaoti": "我逃不开",
+                "payStatus": "3",
+                "chapterPrice": "1.5",
+                "wordCount": "3018"
+            }
+        ]
+    },
+    "tuijian":{
+        "tuijian_img":"https://image.uc.cn/s/uae/g/3o/broccoli/resource/201907/c2620b10-9d5f-11e9-a044-4f1f1d710f51.png",
+        "title_p1":"按摩师眼里的花花世界,远比你想象的更近才香烟",
+        "title_p2":"忽视了较好的老客户垃圾施蒂利克离开家哈三联肯定会拉还是大家卡仕达",
+        "tuijian_h3":"我当按摩师的那些年",
+        "tuijian_p":"卷帘西风",
+        "tuijian_span1":"爽文",
+        "tuijian_span2":"热血",
+        "tuijian_span3":"阅读",
+        "tuijian_p1":"一次出游，季言意外困在了山里，被农户所救，哪知他们竟然强迫她和一个牌位成了婚，为保命她不得不从。几次三番她终于逃出了山里，却恶鬼缠身，从此再无安宁。同学的疏远，离奇的死亡，一个又一个神秘莫测的事件将她紧紧缠绕，生死之间救她护她的却是那一个她百般逃离的鬼。记忆的呈现，谜题的揭晓，她动了胎，也动了情，既然爱了，那么为鬼妻又何妨？",
+        "tuijianList": [
+            {
+                "bookname": "山村高手",
+                "author_name": "苏桥",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201903131454504471.jpg"
+            },
+            {
+                "bookname": "六零小甜媳",
+                "author_name": "顾颜兮",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201802081606388897.jpg"
+            },
+            {
+                "bookname": "妖瞳狂妃",
+                "author_name": "夜白",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201709291016315215.jpg"
+            },
+            {
+                "bookname": "浅婚衍衍",
+                "author_name": "水舍尔",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201804091815188079.jpg"
+            },
+            {
+                "bookname": "美味厨娘妃：邪王尝够没",
+                "author_name": "君如月",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201803061318517185.jpg"
+            },
+            {
+                "bookname": "至尊女兵",
+                "author_name": "江海湖",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201603231653112317.jpg"
+            },
+            {
+                "bookname": "后妃保命准则",
+                "author_name": "木木木子头",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/1112787826815.jpg"
+            },
+            {
+                "bookname": "后娘[穿越]",
+                "author_name": "元月月半",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201902021049065013.jpg"
+            }
+        ]
+    },
+    "xiangqingye":{
+        "xiangqing_i1":"书记详情",
+        "xiangqing_h1":"我当按摩师那些年",
+        "xiangqing_span1":"卷帘西风",
+        "xiangqingye_p":"都市神火211万字",
+        "xiangqingye_span2":"正在免费",
+        "xiangqingye_span3":"开始阅读",
+        "xiangqingye_span4":"加书架",
+        "xiangqingye_span5":"连线下载",
+        "xiangqing_a":"目录",
+        "xiangqingye_span6":"3天前更新",
+        "xiangqing_h3":"精华评论",
+        "xiangqingye_pp":"一次出游，季言意外困在了山里，被农户所救，哪知他们竟然强迫她和一个牌位成了婚，为保命她不得不从。几次三番她终于逃出了山里，却恶鬼缠身，从此再无安宁。同学的疏远，离奇的死亡，一个又一个神秘莫测的事件将她紧紧缠绕，生死之间救她护她的却是那一个她百般逃离的鬼。记忆的呈现，谜题的揭晓，她动了胎，也动了情，既然爱了，那么为鬼妻又何妨？",
+        "pinglunList":[
+            {
+                "pinglunList_i":"书友90999",
+                "pinglunList_p":"她千方百计想扑倒他，结果每次都被拒之于千里之外。屡战屡败，她终于决定换棵树吊死"
+            },
+            {
+                "pinglunList_i":"书友90999",
+                "pinglunList_p":"快结婚卡还是丢按时流量计按实际跌破杀了第几批垃圾的垃圾"
+            },
+            {
+                "pinglunList_i":"书友90999",
+                "pinglunList_p":"什么垃圾小说"
+            }
+        ],
+        "xiangqingyeList": [
+            {
+                "bookname": "山村高手",
+                "author_name": "苏桥",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201903131454504471.jpg"
+            },
+            {
+                "bookname": "六零小甜媳",
+                "author_name": "顾颜兮",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201802081606388897.jpg"
+            },
+            {
+                "bookname": "妖瞳狂妃",
+                "author_name": "夜白",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201709291016315215.jpg"
+            },
+            {
+                "bookname": "浅婚衍衍",
+                "author_name": "水舍尔",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201804091815188079.jpg"
+            },
+            {
+                "bookname": "美味厨娘妃：邪王尝够没",
+                "author_name": "君如月",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201803061318517185.jpg"
+            },
+            {
+                "bookname": "至尊女兵",
+                "author_name": "江海湖",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201603231653112317.jpg"
+            },
+            {
+                "bookname": "后妃保命准则",
+                "author_name": "木木木子头",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/1112787826815.jpg"
+            },
+            {
+                "bookname": "后娘[穿越]",
+                "author_name": "元月月半",
+                "book_img": "http://img-tailor.11222.cn/bcv/big/201902021049065013.jpg"
+            }
+        ]
+    }
+}

@@ -3,52 +3,31 @@
     <div class="liuSouSuo">
       <div class="headerSou">
         <div>
-          <i class="iconfont icon-left-arrow"></i>
+          <router-link class="iconfont icon-left-arrow" tag="i" to="/liuHome"></router-link>
         </div>
         <div>
           <i>搜索中心</i>
         </div>
         <div>
-          <i class="iconfont icon-xiazai45"></i>
+          <router-link class="iconfont icon-xiazai45" tag="i" to="/liuHome"></router-link>
         </div>
       </div>
       <div class="spusuoipt">
         <i class="iconfont icon-sousuo"></i>
-        <input type="text" placeholder="书名/作者/关键字" />
+        <input type="text" placeholder="书名/作者/关键字" v-model="inputVal">
       </div>
       <div class="sousuoTuiJian">
         <ul class="souSuoList">
-          <li>
-            <p>暖婚阿打算霸爱</p>
-          </li>
-          <li>
-            <p>暖婚霸爱</p>
-          </li>
-          <li>
-            <p>暖婚霸爱</p>
-          </li>
-          <li>
-            <p>暖婚霸爱</p>
-          </li>
-          <li>
-            <p>暖婚霸asdasd大神爱</p>
-          </li>
-          <li>
-            <p>暖婚霸爱</p>
-          </li>
-          <li>
-            <p>暖婚霸爱</p>
-          </li>
-          <li>
-            <p>暖婚霸爱</p>
+          <li v-for="(item,index) in sousuoListliu" :key="index">
+            <p>{{item.title}}</p>
           </li>
         </ul>
-        <ul class="souSuoListFlag">
+        <!-- <ul class="souSuoListFlag">
           <li>13哭建行卡</li>
           <li>13哭建行卡</li>
           <li>13哭建行卡</li>
           <li>13哭建行卡</li>
-        </ul>
+        </ul> -->
       </div>
       <div class="souSuoFoot">
         <div>下载UC,免费小说看不停</div>
@@ -61,8 +40,20 @@
   </div>
 </template>
 <script>
+import {sousuoListOne,sousuoListTwo} from "api/sousuo"
 export default {
-  name: "sousuo"
+  name: "sousuo",
+  async created() {
+    let data1 = await sousuoListOne();
+    // let data2 = await sousuoListTwo();
+    this.sousuoListliu = data1.data;
+  },
+  data() {
+    return {
+      sousuoListliu: {},
+      inputVal:"",
+    };
+  },
 };
 </script>
 
@@ -133,6 +124,7 @@ export default {
   height: 100%;
   padding: 0.32rem;
   flex-wrap: wrap;
+  align-content: flex-start;
 }
 .souSuoList li {
   width: 1.8rem;

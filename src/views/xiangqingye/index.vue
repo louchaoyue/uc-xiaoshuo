@@ -6,10 +6,10 @@
           <i class="iconfont icon-left-arrow"></i>
         </div>
         <div>
-          <i>书记详情</i>
+          <i>{{xiangqingyeLiu.xiangqing_i1}}</i>
         </div>
         <div>
-          <i class="iconfont icon-xiazai45"></i>
+          <router-link class="iconfont icon-xiazai45" tag="i" to="/liuHome"></router-link>
         </div>
       </div>
       <div class="shuXiangQ">
@@ -17,84 +17,41 @@
           <img src="http://img-tailor.11222.cn/bcv/big/1123617460830.jpg" />
         </div>
         <div class="shuXiangQJieS">
-          <h3>我当按摩师那些年</h3>
-          <span>卷帘西风</span>
-          <p>都是生活211万字</p>
-          <span>正在免费中</span>
+          <h3>{{xiangqingyeLiu.xiangqing_h1}}</h3>
+          <span>{{xiangqingyeLiu.xiangqing_span1}}</span>
+          <p>{{xiangqingyeLiu.xiangqingye_p}}</p>
+          <span>{{xiangqingyeLiu.xiangqingye_span2}}</span>
         </div>
       </div>
       <div class="Tags">
-        <span>开始阅读</span>
-        <span>加书架</span>
-        <span class="TagsSpan">离线下载</span>
+        <span>{{xiangqingyeLiu.xiangqingye_span3}}</span>
+        <span>{{xiangqingyeLiu.xiangqingye_span4}}</span>
+        <span class="TagsSpan">{{xiangqingyeLiu.xiangqingye_span5}}</span>
       </div>
       <div class="shuJieShao">
-        <p>阿里收到良好的垃圾号施蒂利克就好使打蜡后收到了哈三联打开哈利迪回拉萨打了卡萨好的啦还是留电话按理说电话拉屎好滴啦欢声雷动画上了,几把卡施工队康德拉老师电话考虑好干啥来电话噶事杀过来的机会肯定ja</p>
+        <p>{{xiangqingyeLiu.xiangqingye_pp}}</p>
       </div>
-      <div class="shuMuLu">
+      <router-link class="shuMuLu" tag="div" to="/mulu">
         <i class="iconfont icon-menu"></i>
-        <a href="#">目录</a>
-        <span>3天前更新</span>
-      </div>
+        <a href="#">{{xiangqingyeLiu.xiangqing_a}}</a>
+        <span>{{xiangqingyeLiu.xiangqingye_span6}}</span>
+      </router-link>
       <div class="shuPingLun">
-        <h3>精华评论</h3>
+        <h3>{{xiangqingyeLiu.xiangqing_h3}}</h3>
         <ul>
-          <li>
-            <i>书友90909899</i>
-            <p>绿化空间和sad里挥洒刘德华快回来的撒谎好厉害sad老客户爱是良好的</p>
-          </li>
-          <li>
-            <i>书友90909899</i>
-            <p>绿化空间和sad里挥洒刘德华快回来的撒谎好厉害sad老客户爱是良好的</p>
-          </li>
-          <li>
-            <i>书友90909899</i>
-            <p>绿化空间和sad里挥洒刘德华快回来的撒谎好厉害sad老客户爱是良好的</p>
+          <li v-for="(item,index) in xiangqingyeLiu.pinglunList" :key="index">
+            <i>{{item.pinglunList_i}}</i>
+            <p>{{item.pinglunList_p}}</p>
           </li>
         </ul>
       </div>
       <div class="shuTuiJian">
-        <h3>看过这本书的人还在看</h3>
+        <h3>{{xiangqingyeLiu.xiangqingye_span2}}</h3>
         <ul class="shuTuiJianList">
-          <li>
-            <img src="http://img-tailor.11222.cn/bcv/big/1123617460830.jpg" />
-            <h4>大漠游侠转</h4>
-            <span>网惊叹</span>
-          </li>
-          <li>
-            <img src="http://img-tailor.11222.cn/bcv/big/1123617460830.jpg" />
-            <h4>大漠游侠转</h4>
-            <span>网惊叹</span>
-          </li>
-          <li>
-            <img src="http://img-tailor.11222.cn/bcv/big/1123617460830.jpg" />
-            <h4>大漠游侠转</h4>
-            <span>网惊叹</span>
-          </li>
-          <li>
-            <img src="http://img-tailor.11222.cn/bcv/big/1123617460830.jpg" />
-            <h4>大漠游侠转</h4>
-            <span>网惊叹</span>
-          </li>
-          <li>
-            <img src="http://img-tailor.11222.cn/bcv/big/1123617460830.jpg" />
-            <h4>大漠游侠转</h4>
-            <span>网惊叹</span>
-          </li>
-          <li>
-            <img src="http://img-tailor.11222.cn/bcv/big/1123617460830.jpg" />
-            <h4>大漠游侠转</h4>
-            <span>网惊叹</span>
-          </li>
-          <li>
-            <img src="http://img-tailor.11222.cn/bcv/big/1123617460830.jpg" />
-            <h4>大漠游侠转</h4>
-            <span>网惊叹</span>
-          </li>
-          <li>
-            <img src="http://img-tailor.11222.cn/bcv/big/1123617460830.jpg" />
-            <h4>大漠游侠转</h4>
-            <span>网惊叹</span>
+          <li v-for="(ite,ind) in xiangqingyeLiu.xiangqingyeList" :key="ind">
+            <img :src="ite.book_img" />
+            <h4>{{ite.bookname}}</h4>
+            <span>{{ite.author_name}}</span>
           </li>
         </ul>
       </div>
@@ -102,8 +59,18 @@
   </div>
 </template>
 <script>
+import {xiangQingYe} from "api/xiangqingye";
 export default {
-  name: "xiangqingye"
+  name: "xiangqingye",
+  async created() {
+    let data = await xiangQingYe();
+    this.xiangqingyeLiu = data;
+  },
+  data() {
+    return {
+      xiangqingyeLiu: {}
+    };
+  }
 };
 </script>
 

@@ -3,85 +3,25 @@
     <div class="liuMuLu">
       <div class="hearde">
         <div>
-          <i class="iconfont icon-left-arrow"></i>
+          <router-link tag="i" class="iconfont icon-left-arrow" to="/xiangqingye"></router-link>
         </div>
         <div>
-          <i>目录(720章)</i>
+          <i>{{muLuList.zhangjielong}}</i>
         </div>
         <div>
-          <i class="iconfont icon-xiazai45"></i>
+          <router-link class="iconfont icon-xiazai45" tag="i" to="/liuHome"></router-link>
         </div>
       </div>
       <div class="navMuLu">
-        <span>1~100章</span>
+        <span>{{muLuList.page}}</span>
         <i class="iconfont icon-xiajiantou"></i>
         <a href="#" class="iconfont icon-dingdan"></a>
       </div>
       <div class="muLuBiao">
         <ul class="muLuList">
-          <li>
-            <span>第001章</span>
-            <i>出门没看黄历</i>
-          </li>
-          <li>
-            <span>第001章</span>
-            <i>出门没看黄历</i>
-          </li>
-          <li>
-            <span>第001章</span>
-            <i>出门没看黄历</i>
-          </li>
-          <li>
-            <span>第001章</span>
-            <i>出门没看黄历</i>
-          </li>
-          <li>
-            <span>第001章</span>
-            <i>出门没看黄历</i>
-          </li>
-          <li>
-            <span>第001章</span>
-            <i>出门没看黄历</i>
-          </li>
-          <li>
-            <span>第001章</span>
-            <i>出门没看黄历</i>
-          </li>
-          <li>
-            <span>第001章</span>
-            <i>出门没看黄历</i>
-          </li>
-          <li>
-            <span>第001章</span>
-            <i>出门没看黄历</i>
-          </li>
-          <li>
-            <span>第001章</span>
-            <i>出门没看黄历</i>
-          </li>
-          <li>
-            <span>第001章</span>
-            <i>出门没看黄历</i>
-          </li>
-          <li>
-            <span>第001章</span>
-            <i>出门没看黄历</i>
-          </li>
-          <li>
-            <span>第001章</span>
-            <i>出门没看黄历</i>
-          </li>
-          <li>
-            <span>第001章</span>
-            <i>出门没看黄历</i>
-          </li>
-          <li>
-            <span>第001章</span>
-            <i>出门没看黄历</i>
-          </li>
-          <li>
-            <span>第001章</span>
-            <i>出门没看黄历</i>
+          <li v-for="(item,index) in muLuList.zhangjie" :key="index">
+            <span>{{item.chapterName}}</span>
+            <i>{{item.biaoti}}</i>
           </li>
         </ul>
       </div>
@@ -89,8 +29,18 @@
   </div>
 </template>
 <script>
+import { muLu } from "api/mulu";
 export default {
-  name: "mulu"
+  name: "mulu",
+  async created() {
+    let data = await muLu();
+    this.muLuList = data;
+  },
+  data() {
+    return {
+      muLuList: {}
+    };
+  }
 };
 </script>
 

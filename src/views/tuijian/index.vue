@@ -2,9 +2,11 @@
   <div id="liuTuijian">
     <div class="wocao">
       <div class="synopsis">
-        <img src="https://image.uc.cn/s/uae/g/3o/broccoli/resource/201907/15dd5170-9f1b-11e9-b197-9d42fcb6fb71.png" />
-        <p>按摩师眼里的花花世界,远比你想象的更近才香烟</p>
-        <p>忽视了较好的老客户垃圾施蒂利克离开家哈三联肯定会拉还是大家卡仕达</p>
+        <img
+          src="https://image.uc.cn/s/uae/g/3o/broccoli/resource/201907/15dd5170-9f1b-11e9-b197-9d42fcb6fb71.png"
+        />
+        <p>{{tuijianLiu.title_p1}}</p>
+        <p>{{tuijianLiu.title_p2}}</p>
       </div>
       <div class="details">
         <div class="detailsTop">
@@ -12,36 +14,26 @@
             <img src="http://img-tailor.11222.cn/bcv/big/1123617460830.jpg" />
           </div>
           <div class="detailsCent">
-            <h3>我当按摩师的那些年</h3>
-            <p>卷帘西风1</p>
-            <span>热血</span>
-            <span>爽文</span>
+            <h3>{{tuijianLiu.tuijian_h3}}</h3>
+            <p>{{tuijianLiu.tuijian_p}}</p>
+            <span>{{tuijianLiu.tuijian_span2}}</span>
+            <span>{{tuijianLiu.tuijian_span1}}</span>
           </div>
           <div class="detailsRight">
-            <span>阅读</span>
+            <router-link tag="span" to="/xiangqingye">{{tuijianLiu.tuijian_span3}}</router-link>
           </div>
         </div>
         <div class="detailsBottom">
-          <p>小编推荐 丨 阿大声道阿萨德阿萨德撒的阿萨德回家了回家离开家欧亨利靠吼吼吼苦哈哈撒的好好哦啊十点了来回就捞回来后</p>
+          <p>{{tuijianLiu.tuijian_p1}}</p>
         </div>
       </div>
       <div class="chsngas">
         <h3>更多推荐</h3>
         <div class="chsngasList">
-          <div class="chsngasListone">
-            <img src="http://img-tailor.11222.cn/bcv/big/1123617460830.jpg" />
-            <h4>我在万界送外卖</h4>
-            <p>氪金欧皇</p>
-          </div>
-          <div class="chsngasListone">
-            <img src="http://img-tailor.11222.cn/bcv/big/1123617460830.jpg" />
-            <h4>我在万界送外卖</h4>
-            <p>氪金欧皇</p>
-          </div>
-          <div class="chsngasListone">
-            <img src="http://img-tailor.11222.cn/bcv/big/1123617460830.jpg" />
-            <h4>我在万界送外卖</h4>
-            <p>氪金欧皇</p>
+          <div class="chsngasListone" v-for="(item,index) in tuijianLiu.tuijianList" :key="index">
+            <img :src="item.book_img" />
+            <h4>{{item.bookname}}</h4>
+            <p>{{item.author_name}}</p>
           </div>
         </div>
       </div>
@@ -49,8 +41,18 @@
   </div>
 </template>
 <script>
+import { tuiJian } from "api/tuijian";
 export default {
-  name: "tuijian"
+  name: "tuijian",
+  async created() {
+    let data = await tuiJian();
+    this.tuijianLiu = data;
+  },
+  data() {
+    return {
+      tuijianLiu: {}
+    };
+  }
 };
 </script>
 

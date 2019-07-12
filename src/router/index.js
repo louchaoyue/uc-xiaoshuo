@@ -9,6 +9,10 @@ import tuijian from "./tuijian"
 import xiangqingye from "./xiangqingye"
 export default new Router({
     routes: [
+        {
+            path:"/",
+            redirect:"/liuHome"
+        },
         liuHome,
         mulu,
         sousuo,
